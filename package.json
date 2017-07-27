@@ -1,0 +1,27 @@
+{
+  "name": "nasatlx",
+  "version": "0.0.1",
+  "description": "Implementation of NASA-TLX using NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://hadziq@github.com/hadziq/nasa-tlx.git"
+  },
+  "keywords": [
+    "HCI",
+    "NASA-TLX",
+    "NodeJS"
+  ],
+  "author": "Hadziq Fabroyir",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hadziq/nasa-tlx/issues"
+  },
+  "homepage": "https://github.com/hadziq/nasa-tlx#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
